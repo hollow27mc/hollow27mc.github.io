@@ -46,6 +46,10 @@ The visualization will show the amount of car crashes during the month by using 
 I hope that these visualization can help people to be more cautious with their surroundings especially when they are driving. In the first visualization we can see that even most car accidents happen during the clear sky. The second visualization shows that even only going 25mph, accidents can happen. Third visualization shows that most car accidents in happened during the summer in Chicago. This shows that accidents can happen anytime and anywhere, I hope that people will be more aware with their surroundings and drive safe.
 
 # Citations
-https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html
-www.cityofchicago.org
-https://www.chicago.gov/city/en.html
+[Liscense](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html)
+[City of Chicago](www.cityofchicago.org)
+[Government of Chiacgo](https://www.chicago.gov/city/en.html)
+
+# ANALYSIS
+[My Jupyter Notebook MyBinder Link](https://mybinder.org/v2/gh/hollow27mc/IS445-Final-Project/HEAD)
+[Starboard Link](https://starboard.gg/nb/nECQwTW)
