@@ -29,7 +29,7 @@ This project is based on a dataset from the police department of Chicago. It sho
 We will be using vega-lite to plot the count of car crashes in different weather conditions. We are also going to be using a bar graph; this visualization will showcase the trend of car crashes according to the weather conditions. I chose Red as the hover color because red color is one of the sharpest color to attract attention and drivers need to pay full attention when they are driving in order to avoid accidents.
 
 ---
-<vegachart schema-url="{{ site.baseurl }}/assets/json/weatherCrashes.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/WeatherCondition.json" style="width: 100%"></vegachart>
 ---
 The visualization below utilizes vega-lite again to plot the count of car crashes in different speed limits. We will again be using a bar graph; this visualization showcase the trend of car crashes in 30mph speed limit roads. I tend to choose green as the hover color because it contrast the steelblue color of the bar graph and green usually presents the word "go".
 ---
@@ -47,9 +47,12 @@ I hope that these visualization can help people to be more cautious with their s
 
 # Citations
 [Liscense](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html)
+
 [City of Chicago](www.cityofchicago.org)
+
 [Government of Chiacgo](https://www.chicago.gov/city/en.html)
 
 # ANALYSIS
 [My Jupyter Notebook MyBinder Link](https://mybinder.org/v2/gh/hollow27mc/IS445-Final-Project/HEAD)
+
 [Starboard Link](https://starboard.gg/nb/nECQwTW)
