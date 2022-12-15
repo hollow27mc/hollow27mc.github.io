@@ -33,5 +33,3 @@ The next visualization also uses vega-lite. It showcases the amount of car that 
 The visualization will show the amount of car crashes during the month by using colors, Dark Blue will be the highest amount of crashes and Light Green means that it has the least amount of crashes.
 ---
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Direction_crashes.json" style="width: 100%"></vegachart>
-
-{% include projects/index.html %}
